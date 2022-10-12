@@ -1,0 +1,55 @@
+.general
+{
+    margin: auto;
+    margin-left: 20%;
+}
+.separar
+{
+    width: 30%;
+    margin: 5%;
+}
+body .Cuerpo
+{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+}
+.linkslinks{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+.Cuerpo
+{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+    margin: 0;
+    color: white;
+}
+.HV
+{
+    color: black;
+}
+input{
+    color: white;
+}
+.linkslinks
+{
+    text-decoration: none;
+}
+.linkslinks:cover
+{
+    color: black;
+}
+.cuerpofondo
+{
+    background-color: black;
+}

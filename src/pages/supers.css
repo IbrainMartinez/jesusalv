@@ -1,0 +1,15 @@
+
+.Cuerpo
+{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+    color: white;
+}
+.titulos{
+    color: white;
+}
+h2{
+    color: white;
+}
